@@ -19,4 +19,11 @@ public class SeleniumTest {
 		System.out.println("elementsUI");
 	}
 
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("Delete Twitter");
+	}
 }
+
+

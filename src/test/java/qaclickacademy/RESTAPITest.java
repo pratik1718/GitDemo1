@@ -9,6 +9,8 @@ public class RESTAPITest {
 	public void posJira()
 	{
 		System.out.println("PostJira");
+		System.out.println("PostJira1");
+		System.out.println("PostJira2");
 	}
 	
 	@Test

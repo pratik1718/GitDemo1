@@ -24,6 +24,14 @@ public class SeleniumTest {
 	{
 		System.out.println("Delete Twitter");
 	}
+	
+	@Test
+	public void BrowserAutomation1()
+	{
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation1");
+	}
+	
 }
 
 
